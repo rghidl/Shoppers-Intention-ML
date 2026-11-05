@@ -1,13 +1,13 @@
-# DS-471 Machine Learning Project: Online Shoppers Purchasing Intention
+#  Machine Learning Project: Online Shoppers Purchasing Intention
 
-This repository contains the end-to-end Machine Learning pipeline and deliverables for the DS-471 project, predicting e-commerce consumer purchasing intent.
+This repository contains the end-to-end Machine Learning pipeline and deliverables , predicting e-commerce consumer purchasing intent.
 
 ---
 
 ## Project Structure
 
 ```text
-DS471-Machine-Learning-Project/
+Shoppers-Intention-ML/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
