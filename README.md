@@ -44,5 +44,5 @@ Shoppers-Intention-ML/
 │   ├── fig13_nn_hyperparameter_effects.png
 │   └── fig14_nn_capacity_regularisation.png
 └── report/
-    ├── DS471_Project_Report.docx
-    └── DS471_Project_Report.pdf
+    ├── Project_Report.docx
+    └── Project_Report.pdf
